@@ -1,0 +1,7 @@
+name: GildedVault
+version: '1.0-SNAPSHOT'
+main: me.gildedgoobers.gildedvault.GildedVault
+api-version: '1.21'
+authors: [ GildedGoobers ]
+description: A tip of the hat to the original Vault plugin, but for PaperMC and better.
+website: https://github.com/gildedgoobers
